@@ -30,7 +30,7 @@ body {
 /* Header start */
 
 header {
-  background-image: url("images/bg1.png");
+  background-image: url("../bg1.png");
   width: 100%;
   min-height: 870px;
   /* border: 1px solid rgb(0, 89, 255); */
